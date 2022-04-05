@@ -14,7 +14,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run Tests
-        run: pytest --cov-report html --cov
+        run: pytest --cov=./ --cov-report=xml
 
       - name: Codecov
         uses: codecov/codecov-action@master
