@@ -1,4 +1,3 @@
-from template import template
 from generate import generate_readme
 
 if __name__ == "__main__":
