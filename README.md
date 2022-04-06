@@ -1,10 +1,10 @@
 
 <h1 align="center">
-  README.md generator
+  README.md generator :page_with_curl:
 </h1>
 <br />
 <div align="center">
-  this just generates README.md in this fashion
+  this just generates README.md 
 </div>
 <br />
 <div align="center">
