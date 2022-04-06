@@ -8,6 +8,7 @@ this just generates README.md's like that, just
 
 ```python
 from generate import generate_readme
+
 generate_readme(title, description, repo_name, github_handle)
 ```
 
