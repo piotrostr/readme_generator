@@ -3,9 +3,9 @@ template = """
   {}
 </h1>
 <br />
-<div align="center">
-  {}
-</div>
+
+{}
+
 <br />
 <div align="center">
   <a href="https://github.com/{}/{}/blob/HEAD/MIT">
