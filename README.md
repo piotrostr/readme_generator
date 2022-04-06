@@ -4,7 +4,14 @@
 </h1>
 <br />
 <div align="center">
-  this just generates README.md 
+  this just generates README.md's like that, just
+
+  ```python
+  from generate import generate_readme
+  generate_readme(title, description, repo_name, github_handle)
+  ```
+
+  and it generates `GENERATED.md`
 </div>
 <br />
 <div align="center">
