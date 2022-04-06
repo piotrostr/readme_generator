@@ -3,16 +3,16 @@
   README.md generator :page_with_curl:
 </h1>
 <br />
-<div align="center">
-  this just generates README.md's like that, just
 
-  ```python
-  from generate import generate_readme
-  generate_readme(title, description, repo_name, github_handle)
-  ```
+this just generates README.md's like that, just
 
-  and it generates `GENERATED.md`
-</div>
+```python
+from generate import generate_readme
+generate_readme(title, description, repo_name, github_handle)
+```
+
+and it generates `GENERATED.md`
+
 <br />
 <div align="center">
   <a href="https://github.com/piotrostr/readme_generator/blob/HEAD/MIT">
