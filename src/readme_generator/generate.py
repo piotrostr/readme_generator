@@ -1,4 +1,4 @@
-from template import template
+from .template import template
 
 
 def generate_readme(

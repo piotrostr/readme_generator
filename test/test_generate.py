@@ -1,6 +1,6 @@
 import os
 
-from generate import generate_readme
+from src.readme_generator import generate_readme
 
 
 def test_generates_readme():
