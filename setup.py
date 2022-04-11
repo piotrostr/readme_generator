@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="readme_generator",
-    version="0.0.1",
+    version="0.0.2",
     author="Piotr Ostrowski",
     author_email="piotr.ostrowski@aol.com",
     description="Very simple readme generator",
