@@ -6,8 +6,14 @@
 
 this just generates README.md's like that, just
 
+```
+pip install readme_generator
+```
+
+and
+
 ```python
-from generate import generate_readme
+from readme_generator import generate_readme
 
 generate_readme(title, description, repo_name, github_handle)
 ```
